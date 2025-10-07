@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState } from "react"; //importa o react e o hook(serve para criar e manipular estados de um componente funcional)
 
 const HookMegaSena = () => {
   const [numeroSorteado, setNumeroSorteado] = useState(null);
