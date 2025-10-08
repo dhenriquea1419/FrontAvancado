@@ -1,5 +1,5 @@
 import React from 'react'
-import HookMegaSena from './components/HookMegSena'
+import HookMegaSena from './components/HookMegaSena'
 
 const App = () => {
   return (
