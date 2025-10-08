@@ -6,7 +6,7 @@ const App = () => {
     <div>
       <HookMegaSena/>
     </div>
-  )
+  ) //ele renderiza o componente HookMegaSena, isso faz com q o código e visual da Mega Sena apareça na tela.
 }
 
 export default App

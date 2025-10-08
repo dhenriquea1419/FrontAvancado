@@ -6,7 +6,7 @@ const HookContador = () => {
     const [contador, setContador] = useState(1)
 
     function incrementar() {
-        setContador(contador+1)
+        setContador(contador+1) 
     }
 
     function decrementar(){
