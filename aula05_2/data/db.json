@@ -1,0 +1,20 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Daniel",
+            "curso": "Computaria"
+        },
+        {
+          "id": 2,
+            "nome": "Henrique",
+            "curso": "S.I"   
+        },
+        {
+            "id": 3,
+            "nome": "Bia",
+            "curso": "Farmácia"
+        }
+        
+    ]
+}
