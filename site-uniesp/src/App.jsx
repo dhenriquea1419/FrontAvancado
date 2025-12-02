@@ -7,6 +7,7 @@ import Faculdade from './pages/Faculdade'
 import Dpo from './pages/Dpo'
 import Noticias from './pages/Noticias' 
 import VisualizaNoticia from './pages/VisualizaNoticia'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
           <Route path="/visualiza-noticia" element={<VisualizaNoticia/>} />
         </Routes>
       </Container>
+       <Footer />
     </BrowserRouter>
   )
 }
