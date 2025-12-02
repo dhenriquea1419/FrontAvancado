@@ -1,4 +1,4 @@
-Projeto React – Navegação, Estilização e Consumo de API
+Front-End Avançado – Navegação, Estilização e Consumo de API
 
 Este projeto foi desenvolvido utilizando React com JSX, navegação com React Router DOM, estilização com Bootstrap e consumo de API usando Axios.
 
@@ -18,8 +18,7 @@ Axios – requisições HTTP para APIs
 
 Clone o projeto:
 
-git clone https://github.com/seu-usuario/seu-projeto.git
-
+git clone https://github.com/dhenriquea1419/FrontAvancado.git
 
 Acesse a pasta:
 
